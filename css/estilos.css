@@ -1,5 +1,5 @@
 body{
-    color: blue;
+    color: grey;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -18,7 +18,6 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-
 }
 #container{
     width: 70%;
@@ -33,4 +32,10 @@ body{
 
 #post{
     padding: 1em;
+}
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
